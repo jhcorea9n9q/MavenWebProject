@@ -5,7 +5,8 @@
 <html>
 
 <body>
-<h2>너희들의 코딩. 끔찍해요</h2>
+<h2>World에 Hello 하십시오.</h2>
+<p>World는 모두의 친구이다. So 당신의 안부인사 강요됩니다.</p>
 </body>
 
 </html>
