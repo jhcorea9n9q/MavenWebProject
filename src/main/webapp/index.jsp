@@ -7,6 +7,7 @@
 <body>
 <h2>World에 Hello 하십시오.</h2>
 <p>World는 모두의 친구이다. So 당신의 안부인사 강요됩니다.</p>
+<p>인사를 해서 World에 감사하십시오.</p>
 </body>
 
 </html>
