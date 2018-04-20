@@ -4,13 +4,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>kr.co.gdu</groupId>
   <artifactId>MavenWebProject</artifactId>
-  <packaging>war</packaging>
   <version>1.0.0</version>
   
   <name>MavenWebProject Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
   <dependencies>
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
@@ -24,6 +24,21 @@
     <artifactId>javax.servlet-api</artifactId>
     <version>3.1.0</version>
     <scope>provided</scope>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
+<dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>jstl</artifactId>
+    <version>1.2</version>
+</dependency>
+
+<!-- https://mvnrepository.com/artifact/org.mockito/mockito-core -->
+<dependency>
+    <groupId>org.mockito</groupId>
+    <artifactId>mockito-core</artifactId>
+    <version>2.18.0</version>
+    <scope>test</scope>
 </dependency>
 	
 </dependencies>  
